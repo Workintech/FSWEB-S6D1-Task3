@@ -1,0 +1,76 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 4,
+  "numPassedTests": 2,
+  "numFailedTests": 2,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1703482776161,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Butonda Gizle yazısı ile başlıyor.",
+          "status": "passed",
+          "title": "Butonda Gizle yazısı ile başlıyor.",
+          "duration": 14,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Butona tıklanınca buton yazısı Göster oluyor",
+          "status": "failed",
+          "title": "Butona tıklanınca buton yazısı Göster oluyor",
+          "duration": 1008,
+          "failureMessages": [
+            "Unable to find an element with the text: /Göster/i. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-spinner container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mDöndürücü\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mclass\u001b[39m=\u001b[32m\"spinner\"\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"döndürücü\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0m--+--\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[36m<button\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"toggleDondurucu\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mGizle\u001b[0m\n      \u001b[36m</button>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-spinner container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mDöndürücü\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mclass\u001b[39m=\u001b[32m\"spinner\"\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"döndürücü\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0m--+--\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[36m<button\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"toggleDondurucu\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mGizle\u001b[0m\n      \u001b[36m</button>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 162,
+            "column": 27
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Butona tıklanınca buton yazısı Göster oluyor",
+          "status": "failed",
+          "title": "Butona tıklanınca buton yazısı Göster oluyor",
+          "duration": 1005,
+          "failureMessages": [
+            "Unable to find an element with the text: /Göster/i. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-spinner container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mDöndürücü\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mclass\u001b[39m=\u001b[32m\"spinner\"\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"döndürücü\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0m--+--\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[36m<button\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"toggleDondurucu\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mGizle\u001b[0m\n      \u001b[36m</button>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-spinner container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mDöndürücü\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mclass\u001b[39m=\u001b[32m\"spinner\"\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"döndürücü\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0m--+--\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[36m<button\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"toggleDondurucu\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mGizle\u001b[0m\n      \u001b[36m</button>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 162,
+            "column": 27
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Butona tıklanınca buton yazısı Göster oluyor",
+          "status": "passed",
+          "title": "Butona tıklanınca buton yazısı Göster oluyor",
+          "duration": 2,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1703483015185,
+      "endTime": 1703483017214,
+      "status": "failed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-an9n6r/src/__tests__/Dondurucu.test.jsx"
+    }
+  ]
+}
